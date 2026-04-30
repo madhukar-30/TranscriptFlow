@@ -1,1 +1,1 @@
-"""yt_to_notion — YouTube lecture → Notion notes pipeline."""
+"""TranscriptFlow — YouTube lecture → Notion notes pipeline."""
