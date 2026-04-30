@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.backends.legacy:build"
 
 [project]
-name = "yt-to-notion"
+name = "TranscriptFlow"
 version = "1.0.0"
 description = "Transcribe YouTube lectures and save structured notes to Notion"
 requires-python = ">=3.10"
@@ -19,4 +19,4 @@ dependencies = [
 whisper = ["faster-whisper>=1.0.0"]
 
 [project.scripts]
-yt-to-notion = "yt_to_notion.cli:main"
+yt-to-notion = "TranscriptFlow.cli:main"
