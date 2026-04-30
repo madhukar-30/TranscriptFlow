@@ -2,7 +2,7 @@
 cli.py — Command-line entry point for yt-to-notion.
 
 Usage:
-    yt-to-notion <youtube_url> [category]
+   TranscriptFlow <youtube_url> [category]
 
     category: "System Design" | "AI / ML" | "Networking" | "Cloud / AWS"
               "Java" | "Python" | "DevOps"
